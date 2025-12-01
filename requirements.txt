@@ -1,0 +1,4 @@
+requests
+atlassian
+openai
+numpy

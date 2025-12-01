@@ -1,0 +1,45 @@
+# Environment & Secrets
+.env
+.env.local
+.env*.local
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data & Cache
+*.pkl
+*.pickle
+*.db
+*.sqlite
+*.json
+
+# Credentials & Secrets
+creds/
+secrets/
+credentials/
+
+# Project specific
+confluence_vectordb.pkl
+output/
+logs/
